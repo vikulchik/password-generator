@@ -1,4 +1,4 @@
-# Password Generator
+# [Password Generator](https://password-generator-sable-two.vercel.app/)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.1.1.
 
